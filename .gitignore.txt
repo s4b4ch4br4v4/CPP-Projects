@@ -1,0 +1,8 @@
+# Ignore IDE-specific project files
+cpproject8.cbp
+
+# Ignore application executables
+main.exe
+
+# Ignore build artifacts
+main.o
