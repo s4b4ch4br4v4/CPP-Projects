@@ -1,0 +1,13 @@
+# Ignore compiled binary and intermediate files
+bin/
+obj/
+
+# Ignore IDE-specific project files
+cpproject4.cbp
+cpproject4.layout
+
+# Ignore application executables
+main.exe
+
+# Ignore build artifacts
+main.o
