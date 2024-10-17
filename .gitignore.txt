@@ -1,0 +1,17 @@
+# Ignore compiled binary and intermediate files
+bin/
+obj/
+
+# Ignore IDE-specific project files
+cpproject7.cbp
+cpproject7.depend
+cpproject7.layout
+
+# Ignore application executables
+main.exe
+
+# Ignore build artifacts
+main.o
+
+# Ignore additional files
+myvector.txt
