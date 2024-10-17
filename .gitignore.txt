@@ -3,12 +3,12 @@ bin/
 obj/
 
 # Ignore IDE-specific project files
-cpproject5.cbp/
-cpproject5.depend/
-cpproject5.layout/
+cpproject5.cbp
+cpproject5.depend
+cpproject5.layout
 
 # Ignore application executables
-main.exe/
+main.exe
 
 # Ignore build artifacts
 main.o
